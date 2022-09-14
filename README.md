@@ -2,4 +2,4 @@
 
 personal card and create email from form
 
-### Demo: [LINK](https://contact-me.vercel.app/)
+### Demo: [LINK](https://contact-me-chi.vercel.app/)
